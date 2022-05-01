@@ -1,7 +1,7 @@
 import '../../../App.css';
 import character1 from '../../../assets/Character1.png'
 import character4 from '../../../assets/Character4.png'
-import bigButton from '../../../assets/Menu_Button_big.png'
+import bigButton from '../../../assets/Menu_Button_big-12.png'
 import mediumButton from '../../../assets/Menu_Button_middle_copy.png'
 
 function Header() {
